@@ -1,0 +1,25 @@
+{
+  "name": "oembed-parser-anywhere",
+  "version": "1.0.0",
+  "description": "You can send requests anywhere with this package.\r Based on https://github.com/ndaidong/oembed-parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatuAksoy/oembed-parser-anywhere.git"
+  },
+  "keywords": [
+    "oembed",
+    "parser",
+    "anywhere",
+    "cors"
+  ],
+  "author": "Banjuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatuAksoy/oembed-parser-anywhere/issues"
+  },
+  "homepage": "https://github.com/BatuAksoy/oembed-parser-anywhere#readme"
+}
